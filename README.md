@@ -36,7 +36,7 @@ A fun 2D platformer game built using **Pygame** where the player jumps across pl
 
 ## 📁 Project Structure
 
-`coin_platformer/
+```coin_platformer/
 │
 ├── assets/ 
 ├── main.py 
@@ -46,7 +46,7 @@ A fun 2D platformer game built using **Pygame** where the player jumps across pl
 ├── camera.py
 ├── settings.py
 ├── README.md
-└── .gitignore`
+└── .gitignore```
 
 ---
 
