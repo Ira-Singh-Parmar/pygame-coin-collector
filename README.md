@@ -62,15 +62,15 @@ coin_platformer/
 
 ### 🎮 Gameplay
 <p align="center">
-  <img src="screenshots/pygame2.png" width="400"/>
-  <img src="screenshots/pygame3.png" width="400"/>
-  <img src="screenshots/pygame4.png" width="400"/>
+  <img src="screenshots/pygame2.png" width="300"/>
+  <img src="screenshots/pygame3.png" width="300"/>
+  <img src="screenshots/pygame4.png" width="300"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/pygame5.png" width="400"/>
-  <img src="screenshots/pygame6.png" width="400"/>
-  <img src="screenshots/pygame8.png" width="400"/>
+  <img src="screenshots/pygame5.png" width="300"/>
+  <img src="screenshots/pygame6.png" width="300"/>
+  <img src="screenshots/pygame8.png" width="300"/>
 </p>
 
 <p align="center">
