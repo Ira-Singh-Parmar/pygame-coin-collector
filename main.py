@@ -163,7 +163,11 @@ while running:
     screen.blit(ground_img, (0, ground_rect.y))
 
     if game_state == MENU:
+
         title = font_big.render("Coin Platformer", True, (255, 255, 255))
+
+        title = font_big.render("Coin Connector", True, (255, 255, 255))
+
         title_rect = title.get_rect(center=(WIDTH // 2, HEIGHT // 2 - 150))
         screen.blit(title, (WIDTH//2 - 200, 150))
 
