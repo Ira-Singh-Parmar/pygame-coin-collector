@@ -51,6 +51,45 @@ coin_platformer/
 ```
 ---
 
+
+
+## 📸 Screenshots
+
+### 🚀 Start Screen
+<p align="center">
+  <img src="screenshots/pygame1.png" width="700">
+</p>
+
+### 🎮 Gameplay
+<p align="center">
+  <img src="screenshots/pygame2.png" width="700">
+</p>
+<p align="center">
+  <img src="screenshots/pygame3.png" width="700">
+</p>
+<p align="center">
+  <img src="screenshots/pygame4.png" width="700">
+</p>
+<p align="center">
+  <img src="screenshots/pygame5.png" width="700">
+</p>
+<p align="center">
+  <img src="screenshots/pygame6.png" width="700">
+</p>
+<p align="center">
+  <img src="screenshots/pygame7.png" width="700">
+</p>
+<p align="center">
+  <img src="screenshots/pygame8.png" width="700">
+</p>
+
+### Game Over Screen
+<p align="center">
+  <img src="screenshots/pygame9.png" width="700">
+</p>
+
+---
+
 ## 👩‍💻 Author
 
 **Ira Singh Parmar**
