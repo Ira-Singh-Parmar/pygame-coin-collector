@@ -60,18 +60,23 @@ coin_platformer/
   <img src="screenshots/pygame1.png" width="400">
 </p>
 
-### 🎮 Gameplay
-<p align="center">
-  <img src="screenshots/pygame2.png" width="300"/><img src="screenshots/pygame3.png" width="300"/><img src="screenshots/pygame4.png" width="300"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/pygame5.png" width="300"/><img src="screenshots/pygame6.png" width="300"/><img src="screenshots/pygame8.png" width="300"/>
-</p>
-
-<p align="center">
-  
-</p>
+<table>
+  <tr>
+    <td><img src="screenshots/pygame2.png" width="200"/></td>
+    <td><img src="screenshots/pygame3.png" width="200"/></td>
+    <td><img src="screenshots/pygame4.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/pygame5.png" width="200"/></td>
+    <td><img src="screenshots/pygame6.png" width="200"/></td>
+    <td><img src="screenshots/pygame7.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="screenshots/pygame8.png" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ### Game Over Screen
 <p align="center">
