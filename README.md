@@ -74,7 +74,7 @@ coin_platformer/
   </tr>
 </table>
 
-### Game Over Screen
+### 🚩 Game Over Screen
 <p align="center">
   <img src="screenshots/pygame9.png" width="400">
 </p>
