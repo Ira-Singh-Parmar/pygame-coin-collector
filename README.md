@@ -70,11 +70,11 @@ coin_platformer/
 <p align="center">
   <img src="screenshots/pygame5.png" width="400"/>
   <img src="screenshots/pygame6.png" width="400"/>
-  <img src="screenshots/pygame7.png" width="400"/>
+  <img src="screenshots/pygame8.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/pygame8.png" width="400"/>
+  
 </p>
 
 ### Game Over Screen
